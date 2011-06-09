@@ -1,0 +1,10 @@
+config/initializers/*_local.rb
+db/*.sqlite3
+log/*.log
+public/assets
+public/javascripts/cache-tmp/*
+public/javascripts/cache/*
+public/stylesheets/cache-tmp/*
+public/stylesheets/cache/*
+tmp/**/*
+.DS_Store
